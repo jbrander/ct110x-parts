@@ -1,4 +1,5 @@
-# Honda CT110X (1999) Parts Catalog
+# Honda CT110X (1999) Parts
+
 - [Cylinder Head Cover](#cylinder-head-cover)
 - [Cylinder Head](#cylinder-head)
 - [Camshaft/Valve](#camshaftvalve)
@@ -47,11 +48,10 @@
 - [Caution Label](#caution-label)
 - [Mark](#mark)
 
----
 
 ## Cylinder Head Cover
 
-<img src="images/26234.png" height="400">
+<img src="images/26234.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -89,11 +89,10 @@
 | 28 | PLUG, SPARK (DR8ES)(NGK) | 1 | 0 |
 | 28 | PLUG, SPARK (X27ESR-U)(DENSO) | 1 | 0 |
 
----
 
 ## Cylinder Head
 
-<img src="images/26235.png" height="400">
+<img src="images/26235.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -105,11 +104,10 @@
 | 6 | BOLT, 6MM | 2 | 4.09 |
 | 7 | O-RING, 9X1.6(ARAI) | 2 | 0 |
 
----
 
 ## Camshaft/Valve
 
-<img src="images/26236.png" height="400">
+<img src="images/26236.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -127,11 +125,10 @@
 | 12 | SCREW, TAPPET ADJUSTING | 2 | 3.13 |
 | 13 | NUT, TAPPET ADJUSTING | 2 | 2.72 |
 
----
 
 ## Cam Chain/Tensioner
 
-<img src="images/26237.png" height="400">
+<img src="images/26237.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -157,11 +154,10 @@
 | 20 | NUT, HEX., 8MM | 1 | 0.6 |
 | 21 | BOLT, FLANGE, 6X12 | 3 | 2.3 |
 
----
 
 ## Cylinder
 
-<img src="images/26238.png" height="400">
+<img src="images/26238.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -170,11 +166,10 @@
 | 3 | BOLT, SEALING, 6MM | 2 | 0 |
 | 4 | DOWEL PIN, 10X14 | 4 | 0 |
 
----
 
 ## Right Crankcase Cover
 
-<img src="images/26239.png" height="400">
+<img src="images/26239.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -200,11 +195,10 @@
 | 19 | BOLT, FLANGE, 6X25 | 7 | 1.03 |
 | 20 | BOLT, FLANGE, 6X40 | 2 | 3.52 |
 
----
 
 ## Clutch
 
-<img src="images/26240.png" height="400">
+<img src="images/26240.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -240,11 +234,10 @@
 | 30 | CIRCLIP, EXTERNAL, 20MM | 1 | 0 |
 | 31 | BEARING, RADIAL BALL, 6000 | 1 | 7.75 |
 
----
 
 ## Oil Pump
 
-<img src="images/26241.png" height="400">
+<img src="images/26241.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -259,11 +252,10 @@
 | 11 | SCREW, PAN, 6X25 | 2 | 0.53 |
 | 12 | ROTOR SET, OIL PUMP | 1 | 0 |
 
----
 
 ## Left Crankcase Cover
 
-<img src="images/26242.png" height="400">
+<img src="images/26242.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -283,11 +275,10 @@
 | 12 | BOLT, FLANGE, 6X25 | 9 | 1.03 |
 | 13 | BOLT, FLANGE, 6X35 | 2 | 2.13 |
 
----
 
 ## Generator
 
-<img src="images/26243.png" height="400">
+<img src="images/26243.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -300,11 +291,10 @@
 | 7 | NUT, 14MM | 1 | 6.28 |
 | 8 | WASHER, PLAIN, 14MM | 1 | 6.28 |
 
----
 
 ## Crankcase
 
-<img src="images/26244.png" height="400">
+<img src="images/26244.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -318,11 +308,10 @@
 | 8 | BOLT, DRAIN PLUG, 12MM | 1 | 5.23 |
 | 9 | SCREW, PAN, 6X40 | 9 | 0.53 |
 
----
 
 ## Crankcase/Piston
 
-<img src="images/26245.png" height="400">
+<img src="images/26245.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -353,11 +342,10 @@
 | 12 | BEARING, CONNECTING ROD LARGE END (WHITE)(KOYO) | 1 | 0 |
 | 13 | CLIP, PISTON PIN, 15MM | 2 | 0.6 |
 
----
 
 ## Transmission
 
-<img src="images/26246.png" height="400">
+<img src="images/26246.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -381,11 +369,10 @@
 | 18 | BEARING, RADIAL BALL, 6004 | 1 | 11.26 |
 | 19 | BEARING, RADIAL BALL, 6204 | 1 | 11.26 |
 
----
 
 ## Gearshift Drum
 
-<img src="images/26247.png" height="400">
+<img src="images/26247.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -413,11 +400,10 @@
 | 22 | BOLT, HEX., 6X16 | 1 | 0.56 |
 | 23 | ROLLER, 3X8.5 | 2 | 0.25 |
 
----
 
 ## Kick Starter Spindle
 
-<img src="images/26248.png" height="400">
+<img src="images/26248.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -426,11 +412,10 @@
 | 3 | SPRING, KICK STARTER | 1 | 8.47 |
 | 4 | SPRING, STARTER PINION FRICTION | 1 | 4.21 |
 
----
 
 ## Carburetor
 
-<img src="images/26249.png" height="400">
+<img src="images/26249.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -461,11 +446,10 @@
 | 25 | JET, MAIN, #72 | 1 | 0 |
 | 26 | JET, SLOW, #38 | 1 | 11.06 |
 
----
 
 ## Gasket Kit A
 
-<img src="images/26250.png" height="400">
+<img src="images/26250.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -482,11 +466,10 @@
 | 1 | O-RING, 30.8MM | 2 | 1.0 |
 | 1 | O-RING, 25X2.4 | 1 | 0 |
 
----
 
 ## Gasket Kit B
 
-<img src="images/26251.png" height="400">
+<img src="images/26251.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -503,11 +486,10 @@
 | 1 | O-RING, 18X3 | 1 | 1.0 |
 | 1 | O-RING, 8MM | 1 | 0 |
 
----
 
 ## Headlight
 
-<img src="images/26252.png" height="400">
+<img src="images/26252.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -526,11 +508,10 @@
 | 13 | SCREW-WASHER, 5X12 | 1 | 0 |
 | 14 | BOLT, FLANGE, 10X20 | 2 | 2.04 |
 
----
 
 ## Speedometer
 
-<img src="images/26253.png" height="400">
+<img src="images/26253.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -551,11 +532,10 @@
 | 15 | NUT, FLANGE, 8MM | 1 | 1.99 |
 | 16 | RING, METER SETTING | 1 | 31.13 |
 
----
 
 ## Switch/Cable
 
-<img src="images/26254.png" height="400">
+<img src="images/26254.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -589,11 +569,10 @@
 | 26 | BOLT, FLANGE, 6X25 | 2 | 2.65 |
 | 27 | NUT, LOCK | 2 | 7.14 |
 
----
 
 ## Handle Pipe/Top Bridge
 
-<img src="images/26255.png" height="400">
+<img src="images/26255.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -610,11 +589,10 @@
 | 9 | NUT, HEX., 10MM | 2 | 7.91 |
 | 10 | WASHER, STEERING STEM | 1 | 0 |
 
----
 
 ## Steering Stem
 
-<img src="images/26256.png" height="400">
+<img src="images/26256.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -634,11 +612,10 @@
 | 15 | BOLT, FLANGE, 6X16 | 3 | 2.07 |
 | 16 | STEM SUB ASSY., STEERING *R110* MONZA RED | 1 | 201.16 |
 
----
 
 ## Front Fender
 
-<img src="images/26257.png" height="400">
+<img src="images/26257.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -652,11 +629,10 @@
 | 8 | BOLT-WASHER, 6X20 | 2 | 2.13 |
 | 9 | SCREW-WASHER, 5X10 | 2 | 1.28 |
 
----
 
 ## Front Fork
 
-<img src="images/26258.png" height="400">
+<img src="images/26258.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -692,11 +668,10 @@
 | 27 | BOLT, FLANGE, 6X10 | 1 | 2.07 |
 | 28 | SCREW, PAN, 5X10 | 1 | 0.95 |
 
----
 
 ## Front Brake Panel
 
-<img src="images/26259.png" height="400">
+<img src="images/26259.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -713,11 +688,10 @@
 | 11 | WHEEL SUB ASSY., FR. | 1 | 0 |
 | 12 | SCREW, OVAL, 5X18 | 1 | 0.55 |
 
----
 
 ## Front Wheel
 
-<img src="images/26260.png" height="400">
+<img src="images/26260.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -737,11 +711,10 @@
 | 13 | OIL SEAL, 21X37X7(NOK) | 1 | 0 |
 | 14 | BEARING, RADIAL BALL, 6301 | 2 | 25.4 |
 
----
 
 ## Rear Brake Panel
 
-<img src="images/26261.png" height="400">
+<img src="images/26261.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -766,11 +739,10 @@
 | 19 | PIN, SPLIT, 2.0X15 | 1 | 0.37 |
 | 20 | BOLT, FLANGE, 6X35 | 1 | 0.77 |
 
----
 
 ## Rear Wheel
 
-<img src="images/26262.png" height="400">
+<img src="images/26262.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -802,11 +774,10 @@
 | 25 | BEARING, RADIAL BALL, 6302U | 1 | 13.37 |
 | 26 | BEARING, RADIAL BALL, 6005UU | 1 | 19.08 |
 
----
 
 ## Fuel Tank
 
-<img src="images/26263.png" height="400">
+<img src="images/26263.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -821,11 +792,10 @@
 | 7 | BOLT-WASHER, 6X28 | 3 | 2.79 |
 | 8 | CLIP, TUBE (B10) | 4 | 0.63 |
 
----
 
 ## Seat/Rear Carrier
 
-<img src="images/26264.png" height="400">
+<img src="images/26264.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -844,11 +814,10 @@
 | 12 | WASHER, PLAIN, 8MM | 2 | 0.53 |
 | 13 | BOLT, FLANGE, 8X16 | 2 | 2.44 |
 
----
 
 ## Air Cleaner
 
-<img src="images/26265.png" height="400">
+<img src="images/26265.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -877,11 +846,10 @@
 | 23 | CLIP, TUBE (B10) | 1 | 0.63 |
 | 24 | TUBE, 5.3X380(95005-55001-20M) | 1 | 0 |
 
----
 
 ## Exhaust Muffler
 
-<img src="images/26266.png" height="400">
+<img src="images/26266.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -908,11 +876,10 @@
 | 21 | WASHER, PLAIN, 6MM | 2 | 0.39 |
 | 22 | WASHER, PLAIN, 8MM | 1 | 1.19 |
 
----
 
 ## Pedal/Kick Starter Arm
 
-<img src="images/26267.png" height="400">
+<img src="images/26267.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -936,11 +903,10 @@
 | 17 | PIN C, JOINT | 1 | 4.13 |
 | 18 | BOLT, FLANGE, 6X20 | 1 | 2.17 |
 
----
 
 ## Step
 
-<img src="images/26268.png" height="400">
+<img src="images/26268.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -957,11 +923,10 @@
 | 11 | WASHER, PLAIN, 8MM | 2 | 1.25 |
 | 12 | PIN, SPLIT, 2.0X15 | 2 | 0.37 |
 
----
 
 ## Stand
 
-<img src="images/26269.png" height="400">
+<img src="images/26269.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -981,11 +946,10 @@
 | 14 | BOLT, FLANGE, 6X25 | 2 | 2.65 |
 | 15 | BAR ASSY., R. SIDE STAND | 1 | 75.62 |
 
----
 
 ## Swingarm/Chain Case
 
-<img src="images/26270.png" height="400">
+<img src="images/26270.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -1007,11 +971,10 @@
 | 15 | BOLT, FLANGE, 6X10 | 1 | 1.51 |
 | 16 | BOLT, FLANGE, 6X12 | 2 | 2.17 |
 
----
 
 ## Rear Cushion
 
-<img src="images/26271.png" height="400">
+<img src="images/26271.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -1025,11 +988,10 @@
 | 8 | COLLAR, RUBBER BUSH (SHOWA) | 2 | 5.18 |
 | 9 | BUSH, UPPER RUBBER | 2 | 4.93 |
 
----
 
 ## Winker
 
-<img src="images/26272.png" height="400">
+<img src="images/26272.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -1058,11 +1020,10 @@
 | 20 | WINKER ASSY., R. FR. | 1 | 46.43 |
 | 21 | WINKER ASSY., L. FR. | 1 | 46.43 |
 
----
 
 ## Taillight
 
-<img src="images/26273.png" height="400">
+<img src="images/26273.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -1086,11 +1047,10 @@
 | 18 | NUT, FLANGE, 5MM | 1 | 0.6 |
 | 19 | NUT-WASHER, 6MM | 4 | 1.6 |
 
----
 
 ## Battery
 
-<img src="images/26274.png" height="400">
+<img src="images/26274.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -1105,11 +1065,10 @@
 | 9 | NUT, HEX., 6MM | 1 | 0 |
 | 10 | FUSE (7A) | 1 | 0.82 |
 
----
 
 ## Wire Harness
 
-<img src="images/26275.png" height="400">
+<img src="images/26275.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -1136,11 +1095,10 @@
 | 20 | FUSE (7A) | 1 | 0.82 |
 | 22 | CASE, FUSE (7A) | 1 | 8.95 |
 
----
 
 ## Frame Body
 
-<img src="images/26276.png" height="400">
+<img src="images/26276.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -1156,11 +1114,10 @@
 | 10 | NUT, FLANGE, 6MM | 6 | 1.0 |
 | 11 | WASHER, SPRING, 10MM | 2 | 0.63 |
 
----
 
 ## Tools
 
-<img src="images/26277.png" height="400">
+<img src="images/26277.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -1179,11 +1136,10 @@
 | 11 | BAR B, HANDLE | 1 | 8.2 |
 | 12 | BAG, TOOL, 160MM | 1 | 6.35 |
 
----
 
 ## Main Pipe Cover
 
-<img src="images/26278.png" height="400">
+<img src="images/26278.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -1195,11 +1151,10 @@
 | 6 | NUT, HEX., 10MM | 1 | 0.67 |
 | 7 | BOLT, FLANGE, 6X16 | 4 | 2.07 |
 
----
 
 ## Caution Label
 
-<img src="images/26279.png" height="400">
+<img src="images/26279.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -1210,15 +1165,13 @@
 | 5 | LABEL, COLOUR *TYPE1*(R110) | 1 | 0 |
 | 6 | LABEL, FUEL *TYPEB* | 1 | 6.05 |
 
----
 
 ## Mark
 
-<img src="images/26280.png" height="400">
+<img src="images/26280.png" height="450">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
 | 1 | EMBLEM, MAIN PIPE COVER *TYPE2* | 2 | 9.75 |
 
----
 
