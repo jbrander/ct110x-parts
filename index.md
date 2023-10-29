@@ -51,7 +51,7 @@
 
 ## Cylinder Head Cover
 
-<img src="images/26234.png" height="450">
+<img src="images/26234.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -92,7 +92,7 @@
 
 ## Cylinder Head
 
-<img src="images/26235.png" height="450">
+<img src="images/26235.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -107,7 +107,7 @@
 
 ## Camshaft/Valve
 
-<img src="images/26236.png" height="450">
+<img src="images/26236.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -128,7 +128,7 @@
 
 ## Cam Chain/Tensioner
 
-<img src="images/26237.png" height="450">
+<img src="images/26237.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -157,7 +157,7 @@
 
 ## Cylinder
 
-<img src="images/26238.png" height="450">
+<img src="images/26238.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -169,7 +169,7 @@
 
 ## Right Crankcase Cover
 
-<img src="images/26239.png" height="450">
+<img src="images/26239.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -198,7 +198,7 @@
 
 ## Clutch
 
-<img src="images/26240.png" height="450">
+<img src="images/26240.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -237,7 +237,7 @@
 
 ## Oil Pump
 
-<img src="images/26241.png" height="450">
+<img src="images/26241.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -255,7 +255,7 @@
 
 ## Left Crankcase Cover
 
-<img src="images/26242.png" height="450">
+<img src="images/26242.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -278,7 +278,7 @@
 
 ## Generator
 
-<img src="images/26243.png" height="450">
+<img src="images/26243.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -294,7 +294,7 @@
 
 ## Crankcase
 
-<img src="images/26244.png" height="450">
+<img src="images/26244.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -311,7 +311,7 @@
 
 ## Crankcase/Piston
 
-<img src="images/26245.png" height="450">
+<img src="images/26245.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -345,7 +345,7 @@
 
 ## Transmission
 
-<img src="images/26246.png" height="450">
+<img src="images/26246.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -372,7 +372,7 @@
 
 ## Gearshift Drum
 
-<img src="images/26247.png" height="450">
+<img src="images/26247.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -403,7 +403,7 @@
 
 ## Kick Starter Spindle
 
-<img src="images/26248.png" height="450">
+<img src="images/26248.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -415,7 +415,7 @@
 
 ## Carburetor
 
-<img src="images/26249.png" height="450">
+<img src="images/26249.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -449,7 +449,7 @@
 
 ## Gasket Kit A
 
-<img src="images/26250.png" height="450">
+<img src="images/26250.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -469,7 +469,7 @@
 
 ## Gasket Kit B
 
-<img src="images/26251.png" height="450">
+<img src="images/26251.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -489,7 +489,7 @@
 
 ## Headlight
 
-<img src="images/26252.png" height="450">
+<img src="images/26252.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -511,7 +511,7 @@
 
 ## Speedometer
 
-<img src="images/26253.png" height="450">
+<img src="images/26253.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -535,7 +535,7 @@
 
 ## Switch/Cable
 
-<img src="images/26254.png" height="450">
+<img src="images/26254.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -572,7 +572,7 @@
 
 ## Handle Pipe/Top Bridge
 
-<img src="images/26255.png" height="450">
+<img src="images/26255.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -592,7 +592,7 @@
 
 ## Steering Stem
 
-<img src="images/26256.png" height="450">
+<img src="images/26256.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -615,7 +615,7 @@
 
 ## Front Fender
 
-<img src="images/26257.png" height="450">
+<img src="images/26257.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -632,7 +632,7 @@
 
 ## Front Fork
 
-<img src="images/26258.png" height="450">
+<img src="images/26258.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -671,7 +671,7 @@
 
 ## Front Brake Panel
 
-<img src="images/26259.png" height="450">
+<img src="images/26259.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -691,7 +691,7 @@
 
 ## Front Wheel
 
-<img src="images/26260.png" height="450">
+<img src="images/26260.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -714,7 +714,7 @@
 
 ## Rear Brake Panel
 
-<img src="images/26261.png" height="450">
+<img src="images/26261.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -742,7 +742,7 @@
 
 ## Rear Wheel
 
-<img src="images/26262.png" height="450">
+<img src="images/26262.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -777,7 +777,7 @@
 
 ## Fuel Tank
 
-<img src="images/26263.png" height="450">
+<img src="images/26263.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -795,7 +795,7 @@
 
 ## Seat/Rear Carrier
 
-<img src="images/26264.png" height="450">
+<img src="images/26264.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -817,7 +817,7 @@
 
 ## Air Cleaner
 
-<img src="images/26265.png" height="450">
+<img src="images/26265.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -849,7 +849,7 @@
 
 ## Exhaust Muffler
 
-<img src="images/26266.png" height="450">
+<img src="images/26266.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -879,7 +879,7 @@
 
 ## Pedal/Kick Starter Arm
 
-<img src="images/26267.png" height="450">
+<img src="images/26267.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -906,7 +906,7 @@
 
 ## Step
 
-<img src="images/26268.png" height="450">
+<img src="images/26268.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -926,7 +926,7 @@
 
 ## Stand
 
-<img src="images/26269.png" height="450">
+<img src="images/26269.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -949,7 +949,7 @@
 
 ## Swingarm/Chain Case
 
-<img src="images/26270.png" height="450">
+<img src="images/26270.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -974,7 +974,7 @@
 
 ## Rear Cushion
 
-<img src="images/26271.png" height="450">
+<img src="images/26271.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -991,7 +991,7 @@
 
 ## Winker
 
-<img src="images/26272.png" height="450">
+<img src="images/26272.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -1023,7 +1023,7 @@
 
 ## Taillight
 
-<img src="images/26273.png" height="450">
+<img src="images/26273.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -1050,7 +1050,7 @@
 
 ## Battery
 
-<img src="images/26274.png" height="450">
+<img src="images/26274.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -1068,7 +1068,7 @@
 
 ## Wire Harness
 
-<img src="images/26275.png" height="450">
+<img src="images/26275.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -1098,7 +1098,7 @@
 
 ## Frame Body
 
-<img src="images/26276.png" height="450">
+<img src="images/26276.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -1117,7 +1117,7 @@
 
 ## Tools
 
-<img src="images/26277.png" height="450">
+<img src="images/26277.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -1139,7 +1139,7 @@
 
 ## Main Pipe Cover
 
-<img src="images/26278.png" height="450">
+<img src="images/26278.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -1154,7 +1154,7 @@
 
 ## Caution Label
 
-<img src="images/26279.png" height="450">
+<img src="images/26279.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
@@ -1168,7 +1168,7 @@
 
 ## Mark
 
-<img src="images/26280.png" height="450">
+<img src="images/26280.png" height="350">
 
 | Number | Name | Quantity | Price |
 | ------ | ---- | -------- | ----- |
